@@ -33,7 +33,8 @@ By the end of Week 1, every team member should be able to:
 
 Task submission will be done through the Google Drive folder.
 
-You have to upload your downloaded Google Colab notebook in the submission folder through the link 
+You have to upload your downloaded Google Colab notebook in the submission folder through the link: [Week-1_Task-1_Submission](https://drive.google.com/drive/folders/1pRpMYJwDQOTbsuJmCgZBVr6jBQAciF7u?usp=drive_link)
+
 
 ## Notebook Naming Format
 
@@ -43,7 +44,7 @@ YourName_Week1_Task1.ipynb
 
 ### 1. Download Dataset
 
-Download the Employee Attrition Dataset as a CSV file through this link: [Week-1_Task-1_Submission](https://drive.google.com/drive/folders/1pRpMYJwDQOTbsuJmCgZBVr6jBQAciF7u?usp=drive_link)
+Download the Employee Attrition Dataset as a CSV file through this link:
 
 [Employee Attrition Dataset](https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance?select=WA_Fn-UseC_-HR-Employee-Attrition.csv)
 
