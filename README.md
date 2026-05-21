@@ -1,5 +1,4 @@
 # Human-Disengagement-Risk-Prediction-ITSP-2026
-student disengagement risk prediction using tree-based ensemble machine learning models.
 
 Welcome to the Human Disengagement Risk Prediction Project!
 
