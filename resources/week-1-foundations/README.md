@@ -100,9 +100,6 @@ Think creatively.
 For example:
 
 - If a value is missing from a particular feature, what is the best way to fill it?
-- Can another related feature help estimate the missing value?
-- Can group-wise mean, median, or mode be better than using the whole column?
-- Can department-wise, role-wise, or category-wise replacement make more sense?
 
 Data science requires creativity.
 
