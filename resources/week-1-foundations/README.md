@@ -206,3 +206,5 @@ Use code cells to write and execute code.
 
 Use comments in code wherever needed.
 
+---
+Now move to Task-2 for Week-1 through [📄 Task 2 - Logistic Regression](task2.md)
